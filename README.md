@@ -1,7 +1,7 @@
 
 <h1 align="center">Blurry Image</h1>
 
-![Farmers Market Finder Demo](assets/blurry.gif)
+![Blurry-image](assets/blurry.gif)
 
 You can view the deployed website [here](https://iris-smok.github.io/Blurry-Loading/)
 
